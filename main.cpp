@@ -3,11 +3,11 @@ using namespace std;
 int main()
 {
     string nome = "Arianne";
-    string nomedocolega = "Rita";
+    string nome_do_colega = "Rita";
     int idade = 17;
     cout << nome << endl;
     cout << idade << endl;
-    cout << nomedocolega << endl;
+    cout << nome_do_colega << endl;
 
     return 0;
 }
